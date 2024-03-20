@@ -1,0 +1,11 @@
+.wContainer{
+    width: 40%;
+    text-align: center;
+    margin: 20px auto;
+}
+.weather-card{
+    width: 80%;
+    text-align: center;
+
+    margin-left: 90px;
+}
